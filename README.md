@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Rahul! 👋
 
-<!--
-**rahul123-bot/rahul123-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate frontend and full-stack developer focused on building interactive web applications, management systems, and engaging user experiences.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- 🌐 **Frontend Development:** Crafting responsive, pixel-perfect user interfaces.
+- 🎮 **Interactive Apps:** Building dynamic web applications and multiplayer games.
+- 🛠️ **State Management & Architecture:** Organizing complex workflows with modern frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
+- **Frameworks & Libraries:** Next.js, React, Tailwind CSS
+- **Tools & Platforms:** Git, GitHub, Node.js
+
+## 📁 Featured Projects
+- **[Food Reel App & UI Systems](https://github.com):** A complete food exploration platform featuring partner menu management systems and highly responsive front-end layouts.
+- **[Kanban Board](https://github.com):** A sleek project management tool built using Next.js and TypeScript to organize workflows.
+- **[Multiplayer Game](https://github.com):** An interactive, real-time multiplayer gaming experience built with core JavaScript.
+
+## 📊 GitHub Stats
+![Rahul's GitHub Stats](https://vercel.app)
+![Top Langs](https://vercel.app)
+
+---
+⚡ *“The best way to predict the future is to invent it.”*
+
